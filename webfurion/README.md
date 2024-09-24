@@ -1,2 +1,0 @@
-# westernfurion-website
-yay
