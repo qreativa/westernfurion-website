@@ -9,6 +9,9 @@ p	{
 	color:#FFFFFF;
 	text-align:	center;
 }
+table, th, td	{
+	border:4px solid #FF00FF;
+}
 
 .center	{
 	display:	block;
