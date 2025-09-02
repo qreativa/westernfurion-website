@@ -1,3 +1,7 @@
+@font-face	{
+	font-family: scr14;
+	src: url(../Scr14.woff2);
+}
 body	{
 	max-width: 1024px;
 	max-height: 768px;
