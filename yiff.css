@@ -16,8 +16,9 @@ h1	{
 p	{
 	font-family:scr14;
 	font-size:14px;
+	text-rendering:geometricPrecision;
 	color:#FFFFFF;
-	text-align:	center;
+	text-align:center;
 }
 table	{
 	border:4px solid #7F007F;
